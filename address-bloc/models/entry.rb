@@ -1,6 +1,9 @@
 class Entry
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .merge_file_2ZROvu
+=======
+>>>>>>> check_point_20_assignment
    attr_accessor :name, :phone_number, :email
  
    def initialize(name, phone_number, email)
@@ -13,6 +16,7 @@ class Entry
    end
  
  end
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> origin
@@ -30,3 +34,5 @@ end
 >>>>>>> .merge_file_6znYrv
 =======
 >>>>>>> origin
+=======
+>>>>>>> check_point_20_assignment

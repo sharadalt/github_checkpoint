@@ -31,6 +31,7 @@ RSpec.describe AddressBook do
  
        expect(new_entry.name).to eq('Ada Lovelace')
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .merge_file_fQlFgA
        expect(new_entry.phone_number).to eq('010.012.1815')
 =======
@@ -39,6 +40,9 @@ RSpec.describe AddressBook do
 =======
        expect(new_entry.phone_num).to eq('010.012.1815')
 >>>>>>> origin
+=======
+       expect(new_entry.phone_number).to eq('010.012.1815')
+>>>>>>> check_point_20_assignment
        expect(new_entry.email).to eq('augusta.king@lovelace.com')
      end
    end
