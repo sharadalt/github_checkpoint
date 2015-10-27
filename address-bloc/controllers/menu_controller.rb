@@ -214,5 +214,7 @@ require_relative '../models/address_book'
        search_submenu(entry)
      end
    end
-   
+   def detonate
+    @address_book.entries.clear
+   end
  end
